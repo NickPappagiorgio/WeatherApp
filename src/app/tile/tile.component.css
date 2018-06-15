@@ -2,7 +2,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 20px 0;
   padding: 0 15px;
   border-radius: 10px;
   box-shadow: 5px 7px 5px #888888;
@@ -20,6 +19,7 @@
 
 .full-tile {
   margin-bottom: 50px;
+  margin: 20px;
 }
 
 .city {
